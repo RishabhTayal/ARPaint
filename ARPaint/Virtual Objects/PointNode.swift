@@ -1,9 +1,9 @@
 /*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-The virtual chair.
-*/
+ See LICENSE folder for this sample’s licensing information.
+ 
+ Abstract:
+ The virtual chair.
+ */
 
 import Foundation
 import SceneKit
@@ -14,7 +14,7 @@ let POINT_HEIGHT = CGFloat(0.00001)
 class PointNode: SCNNode {
     
     static var boxGeo: SCNBox?
-	
+    
     override init() {
         super.init()
         

@@ -1,9 +1,9 @@
 /*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-File info
-*/
+ See LICENSE folder for this sample’s licensing information.
+ 
+ Abstract:
+ File info
+ */
 
 import ARKit
 
